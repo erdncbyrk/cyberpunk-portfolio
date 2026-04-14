@@ -1,5 +1,5 @@
 👨‍💻 Cyberpunk Developer Portfolio
-Bu proje, modern web teknolojileri ve siberpunk tasarım dili kullanılarak sıfırdan geliştirilmiş, yüksek performanslı ve tam dinamik bir kişisel portfolyo / CV web uygulamasıdır. .NET 8 gücüyle çalışan arka planı ve cam efekti (glassmorphism) ile zenginleştirilmiş ön yüzü sayesinde ziyaretçilere "premium" bir deneyim sunmayı hedefler.
+Bu proje, modern web teknolojileri ve siberpunk tasarım dili kullanılarak sıfırdan geliştirilmiş, yüksek performanslı ve tam dinamik bir kişisel portfolyo / CV web uygulamasıdır. .NET 10 gücüyle çalışan arka planı ve cam efekti (glassmorphism) ile zenginleştirilmiş ön yüzü sayesinde ziyaretçilere "premium" bir deneyim sunmayı hedefler.
 
 ✨ Öne Çıkan Özellikler
 🎨 Siberpunk Neon Tasarım: Özel renk paleti (Koyu arduvaz, camgöbeği ve fuşya), neon parlamalar ve akıcı mikro-etkileşimler (hover efektleri) ile alışılmışın dışında bir görsel deneyim.
@@ -45,7 +45,7 @@ Projeyi kendi bilgisayarınızda veya sunucunuzda ayağa kaldırmak için aşağ
 1. Depoyu Klonlayın:
 
 Bash
-git clone https://github.com/kullaniciadiniz/cyberpunk-portfolio.git
+git clone https://github.com/erdncbyrk/cyberpunk-portfolio.git
 cd cyberpunk-portfolio
 2. Gerekli Ayarları Yapılandırın:
 Projenin API ve Mail özelliklerinin çalışması için ortam değişkenlerine veya appsettings.json dosyasına (geliştirme aşamasındaysanız User Secrets aracı ile) aşağıdaki anahtarları ekleyin:
