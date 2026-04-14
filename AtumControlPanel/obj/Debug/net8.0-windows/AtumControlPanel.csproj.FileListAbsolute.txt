@@ -1,0 +1,46 @@
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.exe
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.deps.json
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.runtimeconfig.json
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.pdb
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.csproj.AssemblyReference.cache
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.AssemblyInfoInputs.cache
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.AssemblyInfo.cs
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.csproj.CoreCompileInputs.cache
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumCont.1D366838.Up2Date
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\refint\AtumControlPanel.dll
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.pdb
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.genruntimeconfig.cache
+D:\SRC\SRC\Tools\AtumControlPanel\AtumControlPanel\obj\Debug\net8.0-windows\ref\AtumControlPanel.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.exe
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.deps.json
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.runtimeconfig.json
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\AtumControlPanel.pdb
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.csproj.AssemblyReference.cache
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.Forms.Login.resources
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.csproj.GenerateResource.cache
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.AssemblyInfoInputs.cache
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.AssemblyInfo.cs
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumCont.1D366838.Up2Date
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\refint\AtumControlPanel.dll
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.pdb
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\AtumControlPanel.genruntimeconfig.cache
+C:\Users\erdbayrak\OneDrive - Borusan\Desktop\AtumControlPanel\obj\Debug\net8.0-windows\ref\AtumControlPanel.dll
